@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?xu41yb');
+  src:  url('fonts/icomoon.eot?xu41yb#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xu41yb') format('truetype'),
+    url('fonts/icomoon.woff?xu41yb') format('woff'),
+    url('fonts/icomoon.svg?xu41yb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hamburger:before {
+  content: "\e910";
+}
+.icon-app-features-1:before {
+  content: "\e902";
+}
+.icon-app-features-2:before {
+  content: "\e903";
+}
+.icon-app-features-3:before {
+  content: "\e904";
+}
+.icon-app-features-4:before {
+  content: "\e905";
+}
+.icon-app-features-5:before {
+  content: "\e906";
+}
+.icon-app-features-6:before {
+  content: "\e907";
+}
+.icon-download-download:before {
+  content: "\e908";
+}
+.icon-download-star:before {
+  content: "\e909";
+}
+.icon-download-thumbup:before {
+  content: "\e90a";
+}
+.icon-facebook-fill:before {
+  content: "\e900";
+}
+.icon-instagram-fill:before {
+  content: "\e901";
+}
+.icon-mail-fill:before {
+  content: "\e90b";
+}
+.icon-phone-fill:before {
+  content: "\e90c";
+}
+.icon-send-plane-2-fill:before {
+  content: "\e90d";
+}
+.icon-twitter-fill:before {
+  content: "\e90e";
+}
+.icon-youtube-fill:before {
+  content: "\e90f";
+}
